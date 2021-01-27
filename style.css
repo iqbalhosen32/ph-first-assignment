@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+}
+body p{
+    color: rgb(85, 84, 84);
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    color: rgb(59, 58, 58);
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    color: rgb(59, 58, 58);
+    padding-top: 80px;
+}
+.red-highlet{
+    color: rgb(255, 136, 0);
+}
+.half-width{
+    width: 30%;
+    padding-left: 5%;
+    padding-right: 10%;
+    margin-left: 2%;
+    float: left;
+}
+.half-width p{
+    padding-bottom: 40px;
+}
+.half-width img{
+    height: 500px;
+}
+.link-button{
+    padding: 15px 30px;
+    margin-top: 20px;
+    background-image: linear-gradient(100deg, rgb(187, 41, 255), rgba(189, 2, 246, 0.753), rgba(251, 0, 176, 0.774));
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    font-size: 13px;
+    font-family: 'Roboto', sans-serif;
+}
+.latest-section{
+    background-color: rgb(246, 242, 242);
+    display: inline-block;
+    padding-left: 60px;
+    margin-top: 50px;
+    padding-bottom: 120px;
+}
+.latest-section h2{
+    text-align: center;
+}
+.latest-work1{
+    float: left;
+    width: 25%;
+    padding: 2%;
+    margin-left: 2%;
+    background-color: white;
+    border-radius: 20px;
+}
+.latest-work1 img{
+    width: 325px;
+}
+.latest-work1 h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: rgb(59, 58, 58);
+    padding-top: 80px;
+    padding: 0;
+}
+.work-inquiry{
+    float: left;
+    width: 40%;
+    margin-left: 60px;
+    margin-top: 0;
+    color: white;
+    font-weight: 700;
+}
+.chat-button{
+    float: right;
+    width: 60px;
+    margin-right: 100px;
+    margin-top: 80px;
+}
+.inquiry-section{
+    background-image: url("images/Group_33094_1.png");
+    background-size: 850px;
+    background-repeat: no-repeat;
+    height: 500px;
+    margin: 100px 230px;
+
+}
